@@ -1,0 +1,11 @@
+android {
+    compileSdkVersion 33
+}
+
+android {
+    defaultConfig {
+        applicationId "com.rgukt.virtual_campus"
+        minSdkVersion 21
+        targetSdkVersion 33
+    }
+}
